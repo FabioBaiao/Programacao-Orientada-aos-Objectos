@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getNQuartos()
+comment1.params=nQuartos
+comment1.target=void\ setNQuartos(int)
+comment2.params=
+comment2.target=int\ getNWCs()
+comment3.params=nWCs
+comment3.target=void\ setNWCs(int)
+numComments=4

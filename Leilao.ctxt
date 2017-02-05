@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=im\ horas
+comment0.target=Leilao(Imovel,\ int)
+comment1.params=comprador
+comment1.target=void\ adicionaComprador(Comprador)
+comment2.params=
+comment2.target=Comprador\ encerraLeilao()
+comment3.params=imovel
+comment3.target=void\ setImovel(Imovel)
+comment4.params=minutos
+comment4.target=void\ setMinutos(int)
+comment5.params=preco
+comment5.target=void\ setPreco(double)
+comment6.params=vencedor
+comment6.target=void\ setVencedor(Comprador)
+comment7.params=compradores
+comment7.target=void\ setCompradores(java.util.List)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

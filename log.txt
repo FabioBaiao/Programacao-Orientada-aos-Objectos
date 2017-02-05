@@ -1,0 +1,3250 @@
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{vendedor1=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {}
+Histórico Vendidos: {}
+}
+{}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador1=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {}
+Histórico Vendidos: {}
+}
+{}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador1=Favoritos: []
+, vendedor1=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {}
+Histórico Vendidos: {}
+}
+{}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: []
+, comprador2=Favoritos: []
+, comprador1=Favoritos: []
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {}
+Histórico Vendidos: {}
+}
+{}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: []
+, comprador2=Favoritos: []
+, comprador1=Favoritos: []
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {}
+Histórico Vendidos: {}
+}
+{ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: []
+, comprador2=Favoritos: []
+, comprador1=Favoritos: []
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: []
+, comprador2=Favoritos: []
+, comprador1=Favoritos: []
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: []
+, comprador2=Favoritos: []
+, comprador1=Favoritos: []
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: []
+, comprador2=Favoritos: []
+, comprador1=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: []
+, comprador2=Favoritos: [Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+]
+, comprador1=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: [Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+]
+, comprador2=Favoritos: [Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+]
+, comprador1=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador3=Favoritos: [Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+]
+, comprador2=Favoritos: [Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+]
+, comprador1=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador3=Favoritos: [Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+]
+, comprador2=Favoritos: [Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+]
+, comprador1=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: [Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+]
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador3=Favoritos: [Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+]
+, comprador2=Favoritos: [Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+]
+, comprador1=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador7=Favoritos: []
+, comprador6=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+]
+, comprador5=Favoritos: [Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+]
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador3=Favoritos: [Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+]
+, comprador2=Favoritos: [Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+]
+, comprador1=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador7=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+]
+, comprador6=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+]
+, comprador5=Favoritos: [Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+]
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: 
+Área Total: 94
+Área Terreno Involvente: 16
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 546
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 47
+Máx. KWH: 420.0
+Esgotos: true
+, md2_1=Tipo: 
+Área Total: 53
+Área Terreno Involvente: 12
+Nº Quartos: 2
+Nº WC's: 2
+Nº Porta: 654
+, lj3_1=Área: 9.0
+Tem WC? false
+Tipo Negócio: 
+Nº Porta: 38
+, lj3_2=Área: 14.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 238
+, lj4_1=Área: 16.0
+Tem WC? true
+Tipo Negócio: 
+Nº Porta: 87
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{vendedor1=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {}
+Histórico Vendidos: {}
+}
+{}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{vendedor1=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {}
+Histórico Vendidos: {}
+}
+{}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: []
+, comprador2=Favoritos: []
+, comprador1=Favoritos: []
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {}
+Histórico Vendidos: {}
+}
+{}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: []
+, comprador2=Favoritos: []
+, comprador1=Favoritos: []
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {}
+Histórico Vendidos: {}
+}
+{ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: []
+, comprador2=Favoritos: []
+, comprador1=Favoritos: []
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: []
+, comprador2=Favoritos: []
+, comprador1=Favoritos: []
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, lj3_2=Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+, lj3_1=Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, lj3_2=Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: []
+, comprador2=Favoritos: []
+, comprador1=Favoritos: []
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, lj3_2=Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {lj4_1=Área: 15.0
+Tem WC? true
+Tipo Negócio: Informática
+Nº Porta: 235
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+, lj3_1=Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, lj3_2=Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, lj4_1=Área: 15.0
+Tem WC? true
+Tipo Negócio: Informática
+Nº Porta: 235
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: []
+, comprador2=Favoritos: []
+, comprador1=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, lj3_2=Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {lj4_1=Área: 15.0
+Tem WC? true
+Tipo Negócio: Informática
+Nº Porta: 235
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+, lj3_1=Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, lj3_2=Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, lj4_1=Área: 15.0
+Tem WC? true
+Tipo Negócio: Informática
+Nº Porta: 235
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: []
+, comprador2=Favoritos: [Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+, Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+]
+, comprador1=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, lj3_2=Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {lj4_1=Área: 15.0
+Tem WC? true
+Tipo Negócio: Informática
+Nº Porta: 235
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+, lj3_1=Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, lj3_2=Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, lj4_1=Área: 15.0
+Tem WC? true
+Tipo Negócio: Informática
+Nº Porta: 235
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: []
+, comprador3=Favoritos: [Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, Área: 15.0
+Tem WC? true
+Tipo Negócio: Informática
+Nº Porta: 235
+]
+, comprador2=Favoritos: [Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+, Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+]
+, comprador1=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, lj3_2=Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {lj4_1=Área: 15.0
+Tem WC? true
+Tipo Negócio: Informática
+Nº Porta: 235
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+, lj3_1=Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, lj3_2=Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, lj4_1=Área: 15.0
+Tem WC? true
+Tipo Negócio: Informática
+Nº Porta: 235
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: [Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+]
+, comprador3=Favoritos: [Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, Área: 15.0
+Tem WC? true
+Tipo Negócio: Informática
+Nº Porta: 235
+]
+, comprador2=Favoritos: [Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+, Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+]
+, comprador1=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: []
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, lj3_2=Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {lj4_1=Área: 15.0
+Tem WC? true
+Tipo Negócio: Informática
+Nº Porta: 235
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+, lj3_1=Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, lj3_2=Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, lj4_1=Área: 15.0
+Tem WC? true
+Tipo Negócio: Informática
+Nº Porta: 235
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+Utilizadores:
+{comprador4=Favoritos: [Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+]
+, comprador3=Favoritos: [Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, Área: 15.0
+Tem WC? true
+Tipo Negócio: Informática
+Nº Porta: 235
+]
+, comprador2=Favoritos: [Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+, Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+]
+, comprador1=Favoritos: [Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+]
+, comprador7=Favoritos: []
+, comprador6=Favoritos: []
+, comprador5=Favoritos: [Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+]
+, vendedor1=Em Venda: {ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor2=Em Venda: {md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+}
+Histórico Vendidos: {}
+, vendedor3=Em Venda: {lj3_1=Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, lj3_2=Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+Histórico Vendidos: {}
+, vendedor4=Em Venda: {lj4_1=Área: 15.0
+Tem WC? true
+Tipo Negócio: Informática
+Nº Porta: 235
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+}
+Histórico Vendidos: {}
+}
+{md2_2=Tipo: geminada
+Área Total: 45
+Área Terreno Involvente: 5
+Nº Quartos: 3
+Nº WC's: 3
+Nº Porta: 257
+, tr2_1=Tipo de Construção: Habitação
+Diâmetro: 92
+Máx. KWH: 581.0
+Esgotos: true
+, md2_1=Tipo: isolada
+Área Total: 39
+Área Terreno Involvente: 9
+Nº Quartos: 3
+Nº WC's: 2
+Nº Porta: 6102
+, lj3_1=Área: 15.0
+Tem WC? false
+Tipo Negócio: Supermercado
+Nº Porta: 235
+, lj3_2=Área: 25.0
+Tem WC? true
+Tipo Negócio: Papelaria
+Nº Porta: 383
+, lj4_1=Área: 15.0
+Tem WC? true
+Tipo Negócio: Informática
+Nº Porta: 235
+, ap3_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ljh4_1=Apartamento
+Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+
+, ap1_1=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+, ap1_2=Tipo: null
+Área Total: 0
+Nº Quartos: 0
+Nº WC's: 0
+Nº Porta: 0
+Andar: 0
+Tem Garagem? false
+}
+
+---- LOG - LOG ---- 
